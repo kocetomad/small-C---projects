@@ -1,0 +1,8 @@
+﻿  main.cpp
+e:\cpp projects\fmnl stuff\fmnl stuff\misc_functions.h(34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\cpp projects\fmnl stuff\fmnl stuff\misc_functions.h(47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\cpp projects\fmnl stuff\fmnl stuff\misc_functions.h(61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\cpp projects\fmnl stuff\fmnl stuff\misc_functions.h(75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\cpp projects\fmnl stuff\fmnl stuff\main.cpp(113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\cpp projects\fmnl stuff\fmnl stuff\main.cpp(117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  fmnl stuff.vcxproj -> E:\cpp projects\fmnl stuff\x64\Debug\fmnl stuff.exe

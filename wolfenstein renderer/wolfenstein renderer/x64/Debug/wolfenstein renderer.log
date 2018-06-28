@@ -1,0 +1,8 @@
+﻿  main.cpp
+e:\cpp projects\wolfenstein renderer\wolfenstein renderer\misc_functions.h(192): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\cpp projects\wolfenstein renderer\wolfenstein renderer\misc_functions.h(197): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\cpp projects\wolfenstein renderer\wolfenstein renderer\misc_functions.h(203): warning C4305: '-=': truncation from 'double' to 'float'
+e:\cpp projects\wolfenstein renderer\wolfenstein renderer\main.cpp(134): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\cpp projects\wolfenstein renderer\wolfenstein renderer\main.cpp(138): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\cpp projects\wolfenstein renderer\wolfenstein renderer\main.cpp(175): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  wolfenstein renderer.vcxproj -> E:\cpp projects\wolfenstein renderer\x64\Debug\wolfenstein renderer.exe
